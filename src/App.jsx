@@ -9,7 +9,8 @@ function App() {
   return (
     <>
       <div>
-        <h1>Fugglehump is busy brewing a site</h1>
+        <h1>Welcome to Fugglehump's Emporium</h1>
+        <h2>Site is brewing and may take some time check in later</h2>
         <p>Apps coming soon</p>
       </div>
     </>
